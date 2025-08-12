@@ -1,0 +1,21 @@
+[project]
+name = "comments-tonal-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11, <3.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "lightgbm>=4.6.0",
+    "matplotlib>=3.10.5",
+    "nltk>=3.9.1",
+    "notebook>=7.4.5",
+    "numpy>=2.3.2",
+    "optuna>=4.4.0",
+    "optuna-integration>=4.4.0",
+    "pandas>=2.3.1",
+    "scikit-learn>=1.7.1",
+    "seaborn>=0.13.2",
+    "torch>=2.8.0",
+    "transformers>=4.55.0",
+]
